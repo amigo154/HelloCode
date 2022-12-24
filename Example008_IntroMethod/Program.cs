@@ -24,7 +24,7 @@ int max = Max(
 Console.WriteLine(max);
 
 /*int max1 = Max(a1, b1, c1);
-int max2 = Max(a2, b2, c2);
+int max2 = Max(a2, b2, c2);                 - через функции 
 int max3 = Max(a3, b3, c3);
 int max = Max(max1, max2, max3);*/
 
@@ -34,7 +34,7 @@ if (b1 > max) max = b1;
 if (c1 > max) max = c1;
 
 if (a2 > max) max = a2;
-if (b2 > max) max = b2;
+if (b2 > max) max = b2;                   - самый простой варик
 if (c2 > max) max = c2;
 
 if (a3 > max) max = a3;
